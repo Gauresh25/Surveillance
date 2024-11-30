@@ -1,0 +1,449 @@
+2024-11-30 20:04:44,533 - INFO - Found 8 students with profile images
+2024-11-30 20:04:44,533 - INFO - Downloading image from: http://localhost:8000/media/profile_images/5e91f1eb-da01-4077-a380-5cad6d9646c3.jpeg
+2024-11-30 20:04:46,589 - ERROR - Failed to download image: 404
+2024-11-30 20:04:46,590 - INFO - Downloading image from: http://localhost:8000/media/profile_images/8eeceb04-56d9-4f84-9135-72e699788b23.jpeg
+2024-11-30 20:04:49,007 - INFO - Loaded face encoding for gauresh.proctorplus@gmail.com
+2024-11-30 20:04:49,007 - INFO - Downloading image from: http://localhost:8000/media/profile_images/a436b2bb-44ff-4d4c-87c5-f7fe55047461.jpeg
+2024-11-30 20:04:51,392 - INFO - Loaded face encoding for gbee0925@gmail.com
+2024-11-30 20:04:51,393 - INFO - Downloading image from: http://localhost:8000/media/profile_images/90b23532-7a95-4815-b958-0eafea81adf9.jpeg
+2024-11-30 20:04:53,451 - ERROR - Failed to download image: 404
+2024-11-30 20:04:53,452 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4bc92716-e0aa-4915-8485-bb14567e08fb.jpeg
+2024-11-30 20:04:55,805 - INFO - Loaded face encoding for Salman132@34324.das
+2024-11-30 20:04:55,805 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4d4edc74-afa0-4db1-bd6d-2388e4bf93c3.jpeg
+2024-11-30 20:04:57,843 - ERROR - Failed to download image: 404
+2024-11-30 20:04:57,843 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4bc92716-e0aa-4915-8485-bb14567e08fb_ynUkSrU.jpeg
+2024-11-30 20:05:00,226 - INFO - Loaded face encoding for salman.iqureshi04@gmail.com
+2024-11-30 20:05:00,226 - INFO - Downloading image from: http://localhost:8000/media/profile_images/d68f8aa9-37a5-44db-a370-2f37e66b25f2.jpeg
+2024-11-30 20:05:02,626 - INFO - Loaded face encoding for Salmantest@gmail.com
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,989 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,990 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:03,990 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:04,538 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:04,538 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:04,538 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:04,539 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:04,539 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:04,539 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,003 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:05,946 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,401 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,402 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,402 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,923 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,923 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,924 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,924 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:06,924 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:07,397 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:07,858 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:10,615 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,085 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,085 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,086 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,607 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:11,608 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:12,082 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:12,536 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:12,956 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:13,867 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:14,353 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:14,353 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:14,353 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:14,353 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,161 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,161 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,161 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,162 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,610 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,610 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:17,610 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,175 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,681 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:19,682 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:20,112 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:20,585 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:20,586 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:21,063 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:21,553 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,038 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,039 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:22,475 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:23,400 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:23,838 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:23,838 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:23,838 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:23,838 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:23,838 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:24,307 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:25,717 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:26,152 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:26,593 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,017 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,438 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:27,438 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,439 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:27,904 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:28,370 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,281 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:29,727 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:29,727 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:30,173 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:31,142 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:31,630 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:32,114 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:32,114 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:32,115 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:32,115 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:32,600 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:32,600 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,069 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,070 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,640 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,640 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:33,640 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:34,143 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:34,613 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:35,100 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:35,582 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:36,043 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:36,507 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:36,953 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,421 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:37,906 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:38,498 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:38,498 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:38,499 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:38,499 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,009 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,010 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:39,497 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:40,654 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,145 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:41,610 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:42,089 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:42,089 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:42,089 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:42,519 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:43,007 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:43,007 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,007 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,007 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,007 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,478 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:43,954 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:44,387 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:44,387 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,808 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,809 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:44,809 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,270 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:45,270 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,761 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,761 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,761 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,761 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:45,761 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:46,224 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:46,697 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:47,568 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:48,043 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:48,524 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:48,959 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:51,323 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:51,783 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:52,202 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:52,629 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:53,098 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:53,554 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:53,984 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:53,984 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:53,984 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,814 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,814 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,814 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,814 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:54,814 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,236 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,663 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,663 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:55,663 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:57,023 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:57,023 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:57,023 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:58,400 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:05:58,400 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:58,857 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:58,857 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:05:59,753 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:00,206 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:00,628 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:01,044 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:01,560 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:02,107 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:02,107 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:02,107 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:02,107 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:02,589 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:02,589 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:03,456 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:03,910 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:03,910 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:04,358 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:04,816 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:05,281 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:05,749 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:06,202 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:06,202 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:06,202 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:06,202 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:06,659 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:07,103 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:07,103 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:07,103 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:07,103 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:07,103 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:07,519 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:08,468 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:08,470 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,754 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:09,754 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,754 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,754 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,754 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,755 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,755 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,755 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,755 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:09,755 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:10,180 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:10,649 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:11,071 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:12,022 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:12,674 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:12,674 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:12,674 - WARNING - Violation: Audio | User: gauresh.proctorplus@gmail.com | Description: Talking detected
+2024-11-30 20:06:13,281 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:13,762 - WARNING - Violation: Motion | User: gauresh.proctorplus@gmail.com | Description: Suspicious movement detected
+2024-11-30 20:06:15,163 - INFO - Cleaning up resources...

@@ -22,10 +22,10 @@ class ComprehensiveExamProctor:
 
         # Database connection - using your original connection
         self.db_conn = psycopg2.connect(
-            dbname="ProcPlus",
-            user="postgres.psmllggonmzfpfyhgqqb",
-            password="I3v3Ywrx2sCg5zUl",
-            host="aws-0-ap-south-1.pooler.supabase.com",
+            dbname="Your db",
+            user="your userb",
+            password="your password",
+            host="your host address",
             port=6543
         )
         self.cursor = self.db_conn.cursor()

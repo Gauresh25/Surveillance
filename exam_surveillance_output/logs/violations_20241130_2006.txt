@@ -1,0 +1,431 @@
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:04] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:04] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:04] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:04] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:04] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:04] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:05] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:07] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:07] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:10] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:11] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:12] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:12] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:12] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:13] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:13] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:14] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:14] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:14] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:14] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:17] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:19] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:20] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:20] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:20] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:21] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:21] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:21] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:21] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:21] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:21] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:21] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:22] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:23] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:23] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:23] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:23] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:23] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:23] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:24] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:25] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:26] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:26] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:27] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:28] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:28] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:29] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:29] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:30] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:31] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:31] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:32] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:32] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:32] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:32] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:32] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:32] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:33] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:34] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:34] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:35] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:35] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:36] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:36] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:36] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:36] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:37] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:38] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:38] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:38] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:38] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:39] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:40] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:40] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:41] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:42] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:42] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:42] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:42] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:43] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:43] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:44] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:44] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:45] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:46] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:46] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:47] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:48] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:48] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:48] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:51] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:51] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:52] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:52] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:53] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:53] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:53] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:53] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:53] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:54] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:55] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:57] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:57] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:57] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:58] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:05:58] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:58] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:58] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:05:59] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:00] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:00] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:01] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:01] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:02] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:03] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:03] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:04] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:04] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:05] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:05] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:06] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:06] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:06] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:07] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:07] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:07] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:07] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:07] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:07] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:08] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:08] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:09] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:10] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:10] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:11] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:12] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:12] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:12] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:12] Audio | User: gauresh.proctorplus@gmail.com | Talking detected
+[2024-11-30 20:06:13] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
+[2024-11-30 20:06:13] Motion | User: gauresh.proctorplus@gmail.com | Suspicious movement detected
