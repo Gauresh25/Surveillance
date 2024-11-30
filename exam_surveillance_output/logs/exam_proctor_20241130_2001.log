@@ -1,0 +1,19 @@
+2024-11-30 20:01:38,505 - INFO - Found 8 students with profile images
+2024-11-30 20:01:38,505 - INFO - Downloading image from: http://localhost:8000/media/profile_images/5e91f1eb-da01-4077-a380-5cad6d9646c3.jpeg
+2024-11-30 20:01:40,649 - ERROR - Failed to download image: 404
+2024-11-30 20:01:40,649 - INFO - Downloading image from: http://localhost:8000/media/profile_images/8eeceb04-56d9-4f84-9135-72e699788b23.jpeg
+2024-11-30 20:01:43,061 - INFO - Loaded face encoding for gauresh.proctorplus@gmail.com
+2024-11-30 20:01:43,061 - INFO - Downloading image from: http://localhost:8000/media/profile_images/a436b2bb-44ff-4d4c-87c5-f7fe55047461.jpeg
+2024-11-30 20:01:45,458 - INFO - Loaded face encoding for gbee0925@gmail.com
+2024-11-30 20:01:45,458 - INFO - Downloading image from: http://localhost:8000/media/profile_images/90b23532-7a95-4815-b958-0eafea81adf9.jpeg
+2024-11-30 20:01:47,522 - ERROR - Failed to download image: 404
+2024-11-30 20:01:47,522 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4bc92716-e0aa-4915-8485-bb14567e08fb.jpeg
+2024-11-30 20:01:49,943 - INFO - Loaded face encoding for Salman132@34324.das
+2024-11-30 20:01:49,944 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4d4edc74-afa0-4db1-bd6d-2388e4bf93c3.jpeg
+2024-11-30 20:01:51,996 - ERROR - Failed to download image: 404
+2024-11-30 20:01:51,996 - INFO - Downloading image from: http://localhost:8000/media/profile_images/4bc92716-e0aa-4915-8485-bb14567e08fb_ynUkSrU.jpeg
+2024-11-30 20:01:54,366 - INFO - Loaded face encoding for salman.iqureshi04@gmail.com
+2024-11-30 20:01:54,366 - INFO - Downloading image from: http://localhost:8000/media/profile_images/d68f8aa9-37a5-44db-a370-2f37e66b25f2.jpeg
+2024-11-30 20:01:56,775 - INFO - Loaded face encoding for Salmantest@gmail.com
+2024-11-30 20:01:56,782 - ERROR - Failed to grab frame
+2024-11-30 20:01:56,782 - INFO - Cleaning up resources...
